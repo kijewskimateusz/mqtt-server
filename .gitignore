@@ -1,5 +1,5 @@
 #ignore password file
-#/config/pwfile
+/config/pwfile
 
 #ignore personal docker-compose particles
 docker-compose.dev.yml
